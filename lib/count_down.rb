@@ -1,3 +1,3 @@
-while true do
+while -1 do
   puts "say this forever..."
 end
